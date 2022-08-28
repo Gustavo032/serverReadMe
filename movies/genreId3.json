@@ -1,0 +1,119 @@
+[
+	{
+	  "imdbID": "9",
+	  "genreId": 3,
+	  "Poster": "https://www.meucatalogodelivros.com.br/wp-content/uploads/2020/03/destaque-harry-potter.png",
+	  "Year": "1997",
+	  "Title": "Harry Potter e a Pedra Filosofal",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "10",
+	  "genreId": 3,
+	  "Poster": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8b6afe9d969302bf96ebf8c8a8e86afb57abc8f3.jpg",
+	  "Year": "1998",
+	  "Title": "Harry Potter e a Câmara Secreta",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "11",
+	  "genreId": 3,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/810Uu3gYgdL.jpg",
+	  "Year": "1999",
+	  "Title": "Harry Potter e o Prisioneiro de Azkaban",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "12",
+	  "genreId": 3,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81sbuHsj8PL.jpg",
+	  "Year": "2000",
+	  "Title": "Harry Potter e o Cálice de Fogo",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "13",
+	  "genreId": 3,
+	  "Poster": "https://deusmelivro.com/wp-content/uploads/2014/11/60130059_Harry_Potter_Ordem_FenixRL.jpg",
+	  "Year": "2003",
+	  "Title": "Harry Potter e a Ordem da Fênix",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "14",
+	  "genreId": 3,
+	  "Poster": "./principe.jpg",
+	  "Year": "2005",
+	  "Title": "Harry Potter e o Enigma do Príncipe",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "15",
+	  "genreId": 3,
+	  "Poster": "https://img.skoob.com.br/auWSi1JBJugccLPFCgMe6q63mHM=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1200/HARRY_POTTER_E_AS_RELIQUIAS_DA_14423759701200SK1442375970B.jpg",
+	  "Year": "2007",
+	  "Title": "Harry Potter e as Relíquias da Morte",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.5/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "28",
+	  "genreId": 3,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/71p66yY4htL.jpg",
+	  "Year": "2016",
+	  "Title": "Caraval",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.5/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "29",
+	  "genreId": 3,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51tfTrtW8XL._SX331_BO1,204,203,200_.jpg",
+	  "Year": "2018",
+	  "Title": "Lendário",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.5/10"
+		}
+	  ]
+	}
+  ]

@@ -1,0 +1,584 @@
+{
+	"genres": [
+	  {
+		"id": 1,
+		"name": "action",
+		"title": "Ação"
+	  },
+	  {
+		"id": 2,
+		"name": "manga",
+		"title": "Mangá"
+	  },
+	  {
+		"id": 3,
+		"name": "magia",
+		"title": "Magia"
+	  },
+	  {
+		"id": 4,
+		"name": "romance",
+		"title": "Romance/Ficção"
+	  },
+	  {
+		"id": 5,
+		"name": "family",
+		"title": "Infantil/Família"
+	  }
+	],
+	"movies": [
+		{
+			"imdbID": "1",
+			"genreId": 1,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/91g-rulrh4L.jpg",
+			"Year": "2014",
+			"Title": "Quatro: histórias da série Divergente",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "2",
+			"genreId": 1,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81Lpt68N+HL.jpg",
+			"Year": "2013",
+			"Title": "Convergente, Uma Escolha Vai Te Definir",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.2/10"
+			  }
+			]
+		},{
+			"imdbID": "3",
+			"genreId": 1,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/91SYT+tz+BL.jpg",
+			"Year": "2012",
+			"Title": "Insurgente, Uma Escolha Pode Te Destruir",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.2/10"
+			  }
+			]
+		},{
+			"imdbID": "4",
+			"genreId": 1,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81rSPlvS0hL.jpg",
+			"Year": "2011",
+			"Title": "Divergente, Uma Escolha Pode Te Transformar",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.2/10"
+			  }
+			]	
+		},{
+			"imdbID": "5",
+			"genreId": 2,
+			"Poster": "https://m.media-amazon.com/images/I/51rhSMRErpL.jpg",
+			"Year": "2018",
+			"Title": "Jujutsu Kaisen - Batalha de Feiticeiros - 01",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "6",
+			"genreId": 2,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/91MAequ2koL.jpg",
+			"Year": "2018",
+			"Title": "Jujutsu Kaisen: Batalha de Feiticeiros Vol. 2",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.2/10"
+			  }
+			]
+		},{
+			"imdbID": "7",
+			"genreId": 2,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/61AU5L7LvRL.jpg",
+			"Year": "2012",
+			"Title": "Haikyu! Vol. 01",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "8",
+			"genreId": 2,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/514MTP+Q62L.jpg",
+			"Year": "2012",
+			"Title": "Haikyu!!, Vol. 2",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "9",
+			"genreId": 3,
+			"Poster": "https://www.meucatalogodelivros.com.br/wp-content/uploads/2020/03/destaque-harry-potter.png",
+			"Year": "1997",
+			"Title": "Harry Potter e a Pedra Filosofal",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "10",
+			"genreId": 3,
+			"Poster": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8b6afe9d969302bf96ebf8c8a8e86afb57abc8f3.jpg",
+			"Year": "1998",
+			"Title": "Harry Potter e a Câmara Secreta",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "11",
+			"genreId": 3,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/810Uu3gYgdL.jpg",
+			"Year": "1999",
+			"Title": "Harry Potter e o Prisioneiro de Azkaban",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "12",
+			"genreId": 3,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81sbuHsj8PL.jpg",
+			"Year": "2000",
+			"Title": "Harry Potter e o Cálice de Fogo",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "13",
+			"genreId": 3,
+			"Poster": "https://deusmelivro.com/wp-content/uploads/2014/11/60130059_Harry_Potter_Ordem_FenixRL.jpg",
+			"Year": "2003",
+			"Title": "Harry Potter e a Ordem da Fênix",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "14",
+			"genreId": 3,
+			"Poster": "./principe.jpg",
+			"Year": "2005",
+			"Title": "Harry Potter e o Enigma do Príncipe",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "15",
+			"genreId": 3,
+			"Poster": "https://img.skoob.com.br/auWSi1JBJugccLPFCgMe6q63mHM=/300x0/center/top/filters:format(jpeg)/https://skoob.s3.amazonaws.com/livros/1200/HARRY_POTTER_E_AS_RELIQUIAS_DA_14423759701200SK1442375970B.jpg",
+			"Year": "2007",
+			"Title": "Harry Potter e as Relíquias da Morte",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.5/10"
+			  }
+			]
+		},{
+			"imdbID": "16",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51VsdIjcjNL._SX346_BO1,204,203,200_.jpg",
+			"Year": "2019",
+			"Title": "A Sala das Borboletas",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "8.7/10"
+			  }
+			]
+		},{
+			"imdbID": "17",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51r8wkRUUsL.jpg",
+			"Year": "2019",
+			"Title": "Teto Para Dois",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.3/10"
+			  }
+			]
+		},{
+			"imdbID": "18",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81ms3fiyDkL.jpg",
+			"Year": "2019",
+			"Title": "Felizes para Sempre",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.3/10"
+			  }
+			]
+		},{
+			"imdbID": "19",
+			"genreId": 4,
+			"Poster": "https://m.media-amazon.com/images/I/61-RlelxM3L.jpg",
+			"Year": "2016",
+			"Title": "A Coroa",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "8.9/10"
+			  }
+			]
+		},{
+			"imdbID": "20",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/915F+LWJeqL.jpg",
+			"Year": "2015",
+			"Title": "A herdeira",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.1/10"
+			  }
+			]
+		},{
+			"imdbID": "21",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81htmSSRhXL.jpg",
+			"Year": "2014",
+			"Title": "A Escolha",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.8/10"
+			  }
+			]
+		},{
+			"imdbID": "22",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/917W9lLP8qL.jpg",
+			"Year": "2012",
+			"Title": "A Seleção",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "23",
+			"genreId": 5,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51yENFEae4L._SX332_BO1,204,203,200_.jpg",
+			"Year": "2014",
+			"Title": "O show tem que continuar",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.8/10"
+			  }
+			]
+		},{
+			"imdbID": "24",
+			"genreId": 5,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/71QuhZPO5XL.jpg",
+			"Year": "2015",
+			"Title": "Um novo presidente",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.8/10"
+			  }
+			]
+		},{
+			"imdbID": "25",
+			"genreId": 5,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51C6+nEEZNL._SX332_BO1,204,203,200_.jpg",
+			"Year": "2014",
+			"Title": "A verdadeira jogadora",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.8/10"
+			  }
+			]
+		},{
+			"imdbID": "26",
+			"genreId": 5,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51LUj1btYoL._SX359_BO1,204,203,200_.jpg",
+			"Year": "2014",
+			"Title": "Amizade é o bicho",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "27",
+			"genreId": 5,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/81JFdMG8-RL.jpg",
+			"Year": "2014",
+			"Title": "Uma Viagem Fora de Série",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "4.6/10"
+			  }
+			]
+		},{
+			"imdbID": "28",
+			"genreId": 3,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/71p66yY4htL.jpg",
+			"Year": "2016",
+			"Title": "Caraval",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.5/10"
+			  }
+			]
+		},{
+			"imdbID": "29",
+			"genreId": 3,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51tfTrtW8XL._SX331_BO1,204,203,200_.jpg",
+			"Year": "2018",
+			"Title": "Lendário",
+			"resume": "Um resumo do livro aqui como um pop-up do charkaui",
+			"Ratings": [
+			  {
+				"Value": "9.5/10"
+			  }
+			]
+		},{
+			"imdbID": "30",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/510xEnfxuTL._SX342_SY445_QL70_ML2_.jpg",
+			"Year": "2013",
+			"Title": "Vila vermelho",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "8.6/10"
+			  }
+			]
+		},{
+			"imdbID": "31",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/91YbRs+x+cL.jpg",
+			"Year": "2015",
+			"Title": "Novembro, 9",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.4/10"
+			  }
+			]
+		},{
+			"imdbID": "32",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51AaG21l2WL._SX346_BO1,204,203,200_.jpg",
+			"Year": "2018",
+			"Title": "O Segredo de Helena",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.4/10"
+			  }
+			]
+		},{
+			"imdbID": "33",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/51P5pplCCsL._SX345_BO1,204,203,200_.jpg",
+			"Year": "2015",
+			"Title": "Inevitável",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "8.9/10"
+			  }
+			]
+		},{
+			"imdbID": "34",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/61t0bwt1s3L.jpg",
+			"Year": "1949",
+			"Title": "1984",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "8.9/10"
+			  }
+			]
+		},{
+			"imdbID": "35",
+			"genreId": 4,
+			"Poster": "https://s3-sa-east-1.amazonaws.com/fl.mercadoeditorial.org/uploads/book/first_cover/800_9786587817613.jpg",
+			"Year": "1818",
+			"Title": "Frankenstein",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "8.2/10"
+			  }
+			]
+		},{
+			"imdbID": "36",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/A1dCI7Nty-L.jpg",
+			"Year": "2016",
+			"Title": "Carve the Mark",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "37",
+			"genreId": 4,
+			"Poster": "./grennGabies.jpg",
+			"Year": "1908",
+			"Title": "Anne de Green Gabies",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.4/10"
+			  }
+			]
+		},{
+			"imdbID": "38",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/71qrodjC39L.jpg",
+			"Year": "1909",
+			"Title": "Anne de Avonlea",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.3/10"
+			  }
+			]
+		},{
+			"imdbID": "39",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/61nfRHGUkHL.jpg",
+			"Year": "1915",
+			"Title": "Anne of the Island",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.4/10"
+			  }
+			]
+		},{
+			"imdbID": "40",
+			"genreId": 4,
+			"Poster": "https://m.media-amazon.com/images/I/41Ayjg7t4fL.jpg",
+			"Year": "2010",
+			"Title": "A Menina Que Não Sabia Ler",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.3/10"
+			  }
+			]
+		},{
+			"imdbID": "41",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/41RGHH0dImL._SX344_BO1,204,203,200_.jpg",
+			"Year": "2014",
+			"Title": "A menina que não sabia ler: Volume 2",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.1/10"
+			  }
+			]
+		},{
+			"imdbID": "42",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/A1WmQSD7xgL.jpg",
+			"Year": "2011",
+			"Title": "O Orfanato da Srta. Peregrine para Crianças Peculiares",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "43",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/616V5SRtbgL.jpg",
+			"Year": "2014",
+			"Title": "Cidade dos etéreos",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.6/10"
+			  }
+			]
+		},{
+			"imdbID": "44",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/71PE8H-b3JL.jpg",
+			"Year": "2015",
+			"Title": "Biblioteca de Almas",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "45",
+			"genreId": 4,
+			"Poster": "https://1.bp.blogspot.com/-grOGB4mb0FQ/XD3KAnJX0lI/AAAAAAAAWG4/rDwGfhuI2kEC8YbKFk-nmDxq_a2r732lwCLcBGAs/s1600/Mapa%2Bdos%2BDias.jpg",
+			"Year": "2018",
+			"Title": "Mapa dos Dias",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		},{
+			"imdbID": "46",
+			"genreId": 4,
+			"Poster": "https://images-na.ssl-images-amazon.com/images/I/91s6lIAMZaL.jpg",
+			"Year": "2020",
+			"Title": "A Convenção Das Aves",
+			"resume": "",
+			"Ratings": [
+			  {
+				"Value": "9.7/10"
+			  }
+			]
+		}
+	]
+  }

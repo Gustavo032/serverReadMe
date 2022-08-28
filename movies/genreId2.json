@@ -1,0 +1,55 @@
+
+[
+	{
+	  "imdbID": "5",
+	  "genreId": 2,
+	  "Poster": "https://m.media-amazon.com/images/I/51rhSMRErpL.jpg",
+	  "Year": "2018",
+	  "Title": "Jujutsu Kaisen - Batalha de Feiticeiros - 01",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "6",
+	  "genreId": 2,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/91MAequ2koL.jpg",
+	  "Year": "2018",
+	  "Title": "Jujutsu Kaisen: Batalha de Feiticeiros Vol. 2",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.2/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "7",
+	  "genreId": 2,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/61AU5L7LvRL.jpg",
+	  "Year": "2012",
+	  "Title": "Haikyu! Vol. 01",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "8",
+	  "genreId": 2,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/514MTP+Q62L.jpg",
+	  "Year": "2012",
+	  "Title": "Haikyu!!, Vol. 2",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	}
+  ]

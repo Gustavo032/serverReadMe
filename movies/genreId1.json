@@ -1,0 +1,54 @@
+[
+	{
+	  "imdbID": "1",
+	  "genreId": 1,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/91g-rulrh4L.jpg",
+	  "Year": "2014",
+	  "Title": "Quatro: histórias da série Divergente",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "2",
+	  "genreId": 1,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81Lpt68N+HL.jpg",
+	  "Year": "2013",
+	  "Title": "Convergente, Uma Escolha Vai Te Definir",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.2/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "3",
+	  "genreId": 1,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/91SYT+tz+BL.jpg",
+	  "Year": "2012",
+	  "Title": "Insurgente, Uma Escolha Pode Te Destruir",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.2/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "4",
+	  "genreId": 1,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81rSPlvS0hL.jpg",
+	  "Year": "2011",
+	  "Title": "Divergente, Uma Escolha Pode Te Transformar",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.2/10"
+		}
+	  ]
+	}
+]

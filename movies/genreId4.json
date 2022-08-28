@@ -1,0 +1,314 @@
+[
+	{
+	  "imdbID": "16",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51VsdIjcjNL._SX346_BO1,204,203,200_.jpg",
+	  "Year": "2019",
+	  "Title": "A Sala das Borboletas",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "8.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "17",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51r8wkRUUsL.jpg",
+	  "Year": "2019",
+	  "Title": "Teto Para Dois",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.3/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "18",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81ms3fiyDkL.jpg",
+	  "Year": "2019",
+	  "Title": "Felizes para Sempre",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.3/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "19",
+	  "genreId": 4,
+	  "Poster": "https://m.media-amazon.com/images/I/61-RlelxM3L.jpg",
+	  "Year": "2016",
+	  "Title": "A Coroa",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "8.9/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "20",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/915F+LWJeqL.jpg",
+	  "Year": "2015",
+	  "Title": "A herdeira",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.1/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "21",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81htmSSRhXL.jpg",
+	  "Year": "2014",
+	  "Title": "A Escolha",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.8/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "22",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/917W9lLP8qL.jpg",
+	  "Year": "2012",
+	  "Title": "A Seleção",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "30",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/510xEnfxuTL._SX342_SY445_QL70_ML2_.jpg",
+	  "Year": "2013",
+	  "Title": "Vila vermelho",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "8.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "31",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/91YbRs+x+cL.jpg",
+	  "Year": "2015",
+	  "Title": "Novembro, 9",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.4/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "32",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51AaG21l2WL._SX346_BO1,204,203,200_.jpg",
+	  "Year": "2018",
+	  "Title": "O Segredo de Helena",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.4/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "33",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51P5pplCCsL._SX345_BO1,204,203,200_.jpg",
+	  "Year": "2015",
+	  "Title": "Inevitável",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "8.9/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "34",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/61t0bwt1s3L.jpg",
+	  "Year": "1949",
+	  "Title": "1984",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "8.9/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "35",
+	  "genreId": 4,
+	  "Poster": "https://s3-sa-east-1.amazonaws.com/fl.mercadoeditorial.org/uploads/book/first_cover/800_9786587817613.jpg",
+	  "Year": "1818",
+	  "Title": "Frankenstein",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "8.2/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "36",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/A1dCI7Nty-L.jpg",
+	  "Year": "2016",
+	  "Title": "Carve the Mark",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "37",
+	  "genreId": 4,
+	  "Poster": "./grennGabies.jpg",
+	  "Year": "1908",
+	  "Title": "Anne de Green Gabies",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.4/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "38",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/71qrodjC39L.jpg",
+	  "Year": "1909",
+	  "Title": "Anne de Avonlea",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.3/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "39",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/61nfRHGUkHL.jpg",
+	  "Year": "1915",
+	  "Title": "Anne of the Island",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.4/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "40",
+	  "genreId": 4,
+	  "Poster": "https://m.media-amazon.com/images/I/41Ayjg7t4fL.jpg",
+	  "Year": "2010",
+	  "Title": "A Menina Que Não Sabia Ler",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.3/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "41",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/41RGHH0dImL._SX344_BO1,204,203,200_.jpg",
+	  "Year": "2014",
+	  "Title": "A menina que não sabia ler: Volume 2",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.1/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "42",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/A1WmQSD7xgL.jpg",
+	  "Year": "2011",
+	  "Title": "O Orfanato da Srta. Peregrine para Crianças Peculiares",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "43",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/616V5SRtbgL.jpg",
+	  "Year": "2014",
+	  "Title": "Cidade dos etéreos",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "44",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/71PE8H-b3JL.jpg",
+	  "Year": "2015",
+	  "Title": "Biblioteca de Almas",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "45",
+	  "genreId": 4,
+	  "Poster": "https://1.bp.blogspot.com/-grOGB4mb0FQ/XD3KAnJX0lI/AAAAAAAAWG4/rDwGfhuI2kEC8YbKFk-nmDxq_a2r732lwCLcBGAs/s1600/Mapa%2Bdos%2BDias.jpg",
+	  "Year": "2018",
+	  "Title": "Mapa dos Dias",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "46",
+	  "genreId": 4,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/91s6lIAMZaL.jpg",
+	  "Year": "2020",
+	  "Title": "A Convenção Das Aves",
+	  "resume": "",
+	  "Ratings": [
+		{
+		  "Value": "9.7/10"
+		}
+	  ]
+	}
+  ]

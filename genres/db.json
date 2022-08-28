@@ -1,0 +1,27 @@
+[
+	{
+	  "id": 1,
+	  "name": "action",
+	  "title": "Ação"
+	},
+	{
+	  "id": 2,
+	  "name": "manga",
+	  "title": "Mangá"
+	},
+	{
+	  "id": 3,
+	  "name": "magia",
+	  "title": "Magia"
+	},
+	{
+	  "id": 4,
+	  "name": "romance",
+	  "title": "Romance/Ficção"
+	},
+	{
+	  "id": 5,
+	  "name": "family",
+	  "title": "Infantil/Família"
+	}
+  ]

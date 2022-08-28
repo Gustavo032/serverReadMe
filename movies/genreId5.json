@@ -1,0 +1,67 @@
+[
+	{
+	  "imdbID": "23",
+	  "genreId": 5,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51yENFEae4L._SX332_BO1,204,203,200_.jpg",
+	  "Year": "2014",
+	  "Title": "O show tem que continuar",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.8/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "24",
+	  "genreId": 5,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/71QuhZPO5XL.jpg",
+	  "Year": "2015",
+	  "Title": "Um novo presidente",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.8/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "25",
+	  "genreId": 5,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51C6+nEEZNL._SX332_BO1,204,203,200_.jpg",
+	  "Year": "2014",
+	  "Title": "A verdadeira jogadora",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.8/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "26",
+	  "genreId": 5,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/51LUj1btYoL._SX359_BO1,204,203,200_.jpg",
+	  "Year": "2014",
+	  "Title": "Amizade é o bicho",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "9.6/10"
+		}
+	  ]
+	},
+	{
+	  "imdbID": "27",
+	  "genreId": 5,
+	  "Poster": "https://images-na.ssl-images-amazon.com/images/I/81JFdMG8-RL.jpg",
+	  "Year": "2014",
+	  "Title": "Uma Viagem Fora de Série",
+	  "resume": "Um resumo do livro aqui como um pop-up do charkaui",
+	  "Ratings": [
+		{
+		  "Value": "4.6/10"
+		}
+	  ]
+	}
+  ]
